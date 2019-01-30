@@ -28,6 +28,7 @@ def hh_parse(base_url, headers):
                 'content': content
             })
         print(jobs)
+        print('Hello, Artem!')
     else:
         print('ERROR')
 
