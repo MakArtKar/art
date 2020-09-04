@@ -1,1 +1,1 @@
-Some examples of parsers using python, requests and bs4
+HTML parser using python, requests and bs4
